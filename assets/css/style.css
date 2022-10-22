@@ -1,0 +1,54 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+}
+.navbar-img {
+  width: 86px;
+  height: 25px;
+}
+.text-description {
+  color: #212529;
+  font-size: 20px;
+  font-weight: 300;
+}
+.text-store {
+  color: #707070;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+.text-address {
+  color: #707070;
+  font-size: 13px;
+  font-weight: 300;
+}
+.text-price {
+  color: #707070;
+  font-size: 16px;
+  font-weight: 300;
+}
+.text-new-price {
+  color: #28a745;
+  font-size: 20px;
+  font-weight: 500;
+}
+.cupones {
+  font-size: 21px;
+  font-weight: 500;
+  padding-bottom: 0.5rem;
+}
+
+.input1 {
+  color: #707070;
+  font-weight: 300;
+  font-size: 16px;
+}
+.footer-img-c {
+  width: 82px;
+  height: 24px;
+}
+.footer-description {
+  color: #707070;
+  font-weight: 300;
+  font-size: 16px;
+}
